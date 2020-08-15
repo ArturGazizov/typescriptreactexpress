@@ -1,0 +1,59 @@
+npm init
+
+running 
+ install both ts-node and the official typescript package globally by running 
+npm install -g ts-node typescript
+
+{
+  // ..
+  "scripts": {
+    "ts-node": "ts-node"  },
+  // ..
+}
+
+
+
+
+npm run ts-node -- file.ts
+
+
+npm install --save-dev @types/node
+
+
+npm run bmiCalculator 180 91
+
+npm run ts-node -- bmiCalculator.ts 180 18
+
+
+npm run exerciseCalculator 5 5 5 5 0 5 5 5
+
+npm run ts-node -- exerciseCalculator.ts 5 5 5 5 5 5 5 5
+
+
+npm install body-parser
+
+
+http://localhost:3003/bmi?height=300&weight=300
+
+
+npm install typescript
+
+npm install --save-dev @types/express
+
+npm install --save-dev ts-node-dev
+
+npm install --save-dev @types/express
+
+
+npm install --save-dev ts-node-dev
+
+
+
+
+
+
+
+npm install --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
+
+
+
