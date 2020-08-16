@@ -1,0 +1,16 @@
+{
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+    "**/*.d.ts"
+  ],
+  "include": [
+    "src"
+  ],
+  "extends": "./tsconfig.path.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "isolatedModules": false
+  }
+}
