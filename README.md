@@ -45,9 +45,12 @@ or
 npm run lint
 for checking
 
+9.14-9.15 react with typescript
 
+9.16-9.27 
+show and add patients, show and ad to them 3 different kinds of entries
 
-9.16-9.27
+react context holds state in it, made of useReducer react hook, Formik, semantic-ui-react components, react routes, routes, services, express endpoints ,typescript
 
 in 2 console:
 npm start
