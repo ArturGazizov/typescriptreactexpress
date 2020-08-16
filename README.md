@@ -1,6 +1,8 @@
 # typescriptreactexpress
 
 
+npm install everywhere
+
     
 9.1-9.7 typed input values ,calculating functions called by scripts, arguments to use,
 also express server with inputting to get calculation from same scripts
